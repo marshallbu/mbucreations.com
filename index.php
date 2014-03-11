@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="shortcut icon" href="favicon.ico">
     <title>mbuCreations - something a little brighter, coming soon</title>
     
     <!-- Typekit -->
@@ -24,8 +25,10 @@
   <body>
     <div id="app_splash" class="">
       <div class="splash_content">
-        <div class="logo"></div>
-        <div class="coming-soon pull-right">a brighter experience, <span class="colorize">coming soon</span></div>
+        <div class="logo">
+          <div class="coming-soon">a brighter experience, <span class="colorize">coming soon</span></div>
+        </div>
+        
       </div>
 
       <div class="external-forward">
